@@ -1,0 +1,14 @@
+{
+    "ROs": {
+        "ps": {
+            "si": {
+                        "port": 3,
+                        "Description": "Stream In"
+                },
+            "mi": {
+                        "port": 1,
+                        "Description": "Stream Out"
+            }
+        }
+    }
+}
