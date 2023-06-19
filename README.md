@@ -5,7 +5,7 @@
    * [.m analysis files]
    * [zipped device data]
  * [design_files](./design_files)
-   * [RO_PUF_IP](./design_files/RO_PUF_IP)              # Source files of a custom RO PUF IP
+   * [RO_PUF_IP](./design_files/RO_PUF_IP)              # Source files of the custom RO PUF IP
    * [Vivado_project](./design_files/Vivado_project_src)    # Source files of the Vivado project
  * [manual_placement.tcl](./manual_placement.tcl)
  * [README.md](./README.md)
