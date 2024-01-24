@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="774.001 ns"></ZoomEndTime>
+      <Cursor1Time time="127.500 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="221"></NameColumnWidth>
+      <ValueColumnWidth column_width="107"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject type="logic" fp_name="/tb_1/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/rstn">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/in_ready">
+      <obj_property name="ElementShortName">in_ready</obj_property>
+      <obj_property name="ObjectShortName">in_ready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/in_valid">
+      <obj_property name="ElementShortName">in_valid</obj_property>
+      <obj_property name="ObjectShortName">in_valid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_1/in_data">
+      <obj_property name="ElementShortName">in_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/in_last">
+      <obj_property name="ElementShortName">in_last</obj_property>
+      <obj_property name="ObjectShortName">in_last</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/out_last">
+      <obj_property name="ElementShortName">out_last</obj_property>
+      <obj_property name="ObjectShortName">out_last</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/out_ready">
+      <obj_property name="ElementShortName">out_ready</obj_property>
+      <obj_property name="ObjectShortName">out_ready</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_1/out_valid">
+      <obj_property name="ElementShortName">out_valid</obj_property>
+      <obj_property name="ObjectShortName">out_valid</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_1/out_data">
+      <obj_property name="ElementShortName">out_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">out_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_1/clk_period">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_1/FIFO/ram">
+      <obj_property name="ElementShortName">ram[0:7][7:0]</obj_property>
+      <obj_property name="ObjectShortName">ram[0:7][7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
